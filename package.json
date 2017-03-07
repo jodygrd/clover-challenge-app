@@ -1,0 +1,14 @@
+{
+  "name": "challenge-app",
+  "version": "1.0.0",
+  "description": "basic server for testing with the Clover 3rd party API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Pinto",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
